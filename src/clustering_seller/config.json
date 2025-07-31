@@ -1,0 +1,14 @@
+ {
+    "grant_type": "authorization_code",
+    "grant_type_update" :"refresh_token",
+    "client_id": "1271746154574690",
+    "client_secret": "Zxd8sC48T3Aqgo8LAe0XqeI5ELtpOnPR",
+    "code": "TG-68841db9d258280001cf4ef9-2583130070",
+    "redirect_uri":"https://www.datacamp.com",
+    "nuevo_token": "TG-688accd3e10e4b000105affd-2583130070",
+    "user":"root",
+    "password":"localdev3",
+    "host":"localhost",
+    "database":"ejemplo_db"
+}
+
